@@ -1,0 +1,12 @@
+ Steps to Run Job Portal
+
+Install Any one of  These Server on Your PC.
+Wamp
+Vertrigo
+XXamp
+Create a Database of name “sbjobseekers”
+Import sql file Which is present in the folder of name “db” and Name of Sql files to be imported are.
+jobs.sql
+SoftbizJobsAndRecruitmentScript_empty.sql
+And Then Put this folder in the Server Folder.
+Start the Localhost on Your P.C.
